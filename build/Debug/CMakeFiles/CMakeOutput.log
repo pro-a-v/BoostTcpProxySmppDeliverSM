@@ -1,0 +1,87 @@
+The system is: Linux - shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+4.18.10-200.fc28.x86_64 - shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_c1f61/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_c1f61.dir/build.make CMakeFiles/cmTC_c1f61.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c1f61.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_c1f61.dir/testCCompiler.c.o   -c /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c1f61
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1f61.dir/link.txt --verbose=1
+/usr/bin/gcc      CMakeFiles/cmTC_c1f61.dir/testCCompiler.c.o  -o cmTC_c1f61 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_823e5/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_823e5.dir/build.make CMakeFiles/cmTC_823e5.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_823e5.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_823e5.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_823e5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_823e5.dir/link.txt --verbose=1
+/usr/bin/gcc      CMakeFiles/cmTC_823e5.dir/CMakeCCompilerABI.c.o  -o cmTC_823e5 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_37e0b/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_37e0b.dir/build.make CMakeFiles/cmTC_37e0b.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_37e0b.dir/testCXXCompiler.cxx.o
+/usr/bin/g++     -o CMakeFiles/cmTC_37e0b.dir/testCXXCompiler.cxx.o -c /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_37e0b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_37e0b.dir/link.txt --verbose=1
+/usr/bin/g++       CMakeFiles/cmTC_37e0b.dir/testCXXCompiler.cxx.o  -o cmTC_37e0b 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_c84c6/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_c84c6.dir/build.make CMakeFiles/cmTC_c84c6.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c84c6.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/g++     -o CMakeFiles/cmTC_c84c6.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_c84c6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c84c6.dir/link.txt --verbose=1
+/usr/bin/g++       CMakeFiles/cmTC_c84c6.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_c84c6 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_cb787/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_cb787.dir/build.make CMakeFiles/cmTC_cb787.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb787.dir/CheckIncludeFile.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_cb787.dir/CheckIncludeFile.c.o   -c /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_cb787
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb787.dir/link.txt --verbose=1
+/usr/bin/gcc      CMakeFiles/cmTC_cb787.dir/CheckIncludeFile.c.o  -o cmTC_cb787 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_046e3/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_046e3.dir/build.make CMakeFiles/cmTC_046e3.dir/build
+gmake[1]: Entering directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_046e3.dir/CheckFunctionExists.c.o
+/usr/bin/gcc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_046e3.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_046e3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_046e3.dir/link.txt --verbose=1
+/usr/bin/gcc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_046e3.dir/CheckFunctionExists.c.o  -o cmTC_046e3 -lpthread 
+gmake[1]: Leaving directory '/home/a.prochakovsky/QTProjects/BoostTcpProxySmppDeliverSM/build/Debug/CMakeFiles/CMakeTmp'
+
+
